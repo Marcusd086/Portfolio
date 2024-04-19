@@ -1,0 +1,13 @@
+"this is a malformed "" string
+1234E+2.2
+-12-4
+"this is also a malformed string
+12ab
+2.2.2
+1..10
+5.
+3E
+4E-2
+3E+2+2
+5E2+2
+6E2+
