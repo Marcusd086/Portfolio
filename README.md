@@ -9,8 +9,9 @@ Divided into 3 sections:
       Databases - Demonstrates proficiency in SQL
 
       Programming Languages - Demonstrated Advanced knwoledge of C++ through the creation of an interpreter
+     
  
-  3. Data Presentation
+  2. Data Presentation
      
       Behavioral and Morphological Effects of Cannabidiol on Zebrafish - Demonstrates research experience from data collection to presentation
 
@@ -18,7 +19,8 @@ Divided into 3 sections:
 
       Suicide Vs Unemployment Rate - Demonstrates ability to interperet and extrapolate information from raw data
 
-  5. Data Science - Assignments demonstrating familiarity with machine learning and web scraping
+
+  3. Data Science - Assignments demonstrating familiarity with machine learning and web scraping
      
       Neural Networks
 
